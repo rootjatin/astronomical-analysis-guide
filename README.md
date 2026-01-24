@@ -20,3 +20,4 @@ Suggested environment
 Notes
 - These notebooks need internet access to query Gaia and download from MAST.
 - If a service is busy, retry later or reduce query radius / number of products.
+- this Repository let your learn the basic of astronomical data analysis using the data provided by astroquery
